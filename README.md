@@ -1,5 +1,5 @@
 
-<h1 align="center">👋 Hi, I'm Shaheed Raza</h1>
+<h1 align="center">👋 Hi, I'm Shaheedraza</h1>
 
 <h3 align="center">🚀 Aspiring Developer | Tech Enthusiast</h3>
 
